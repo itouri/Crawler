@@ -1,0 +1,507 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	width:auto;
+	height:auto;
+	margin: 0 auto;	
+
+}
+
+#background {
+	min-width:1080px;
+	height:auto;
+	margin:0px auto;
+    background-image:url(../images/bcg1.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+
+}
+
+#main {	
+	width:1080px;
+	height:auto;
+	padding:0px 15px ;
+	margin:0px auto ;
+	background-color:#FFF;
+}
+
+header{
+	padding-top:15px;
+	padding-bottom:10px;
+	width:auto;
+	height:auto;
+	background-color:#FFF;
+	margin-bottom:50px;
+}
+
+header h1 a img{
+	width:270px;
+	height:50px;
+	float:left;
+}
+
+header ul{
+	float:right;
+	padding-top:25px;
+}
+
+header li{
+	float:left;
+	margin-right:10px;
+}
+
+
+#main1{
+	width:1080px;
+	height:600px;
+	background-color:#fFF;
+}
+
+/*メインスライダーの設定*/
+
+.ei-slider{
+	position: relative;
+	width: 100%;
+	max-width: 1080px;
+	height: 540px;
+	margin: 0 auto;
+}
+.ei-slider-loading{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index:999;
+	background: rgba(0,0,0,0.9);
+	color: #fff;
+	text-align: center;
+	line-height: 400px;
+}
+.ei-slider-large{
+	height: 100%;
+	width: 100%;
+	position:relative;
+	overflow: hidden;
+}
+.ei-slider-large li{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+}
+.ei-slider-large li img{
+	width: 100%;
+}
+.ei-title{
+	position: absolute;
+	right: 50%;
+	margin-right: 13%;
+	top: 30%;
+}
+.ei-title h2, .ei-title h3{
+	text-align: right;
+}
+.ei-title h2{
+	font-size: 40px;
+	line-height: 50px;
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	color: #b5b5b5;
+}
+.ei-title h3{
+	font-size: 70px;
+	line-height: 70px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-transform: uppercase;
+	color: #000;
+}
+.ei-slider-thumbs{
+	height: 13px;
+	margin: 0 auto;
+	position: relative;
+}
+.ei-slider-thumbs li{
+	position: relative;
+	float: left;
+	height: 100%;
+}
+.ei-slider-thumbs li.ei-slider-element{
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	height: 100%;
+	z-index: 10;
+	text-indent: -9000px;
+	background: #000;
+	background: rgba(0,0,0,0.9);
+}
+.ei-slider-thumbs li a{
+	display: block;
+	text-indent: -9000px;
+	background: #666 ;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+	-webkit-box-shadow: 
+        0px 1px 1px 0px rgba(0,0,0,0.3), 
+        0px 1px 0px 1px rgba(255,255,255,0.5);
+	-moz-box-shadow: 
+        0px 1px 1px 0px rgba(0,0,0,0.3), 
+        0px 1px 0px 1px rgba(255,255,255,0.5);
+	box-shadow: 
+        0px 1px 1px 0px rgba(0,0,0,0.3), 
+        0px 1px 0px 1px rgba(255,255,255,0.5);
+	-webkit-transition: background 0.2s ease;
+    -moz-transition: background 0.2s ease;
+    -o-transition: background 0.2s ease;
+    -ms-transition: background 0.2s ease;
+    transition: background 0.2s ease;
+}
+.ei-slider-thumbs li a:hover{
+	background-color: #f0f0f0;
+}
+.ei-slider-thumbs li img{
+	position: absolute;
+	bottom: 50px;
+	opacity: 0;
+	z-index: 999;
+	max-width: 100%;
+	-webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+	-webkit-box-reflect: 
+        below 0px -webkit-gradient(
+            linear, 
+            left top, 
+            left bottom, 
+            from(transparent), 
+            color-stop(50%, transparent), 
+            to(rgba(255,255,255,0.3))
+            );
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+.ei-slider-thumbs li:hover img{
+	opacity: 1;
+	bottom: 13px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+
+
+/*グローバルナビゲーション*/
+
+#nav {
+	padding-top:10px;
+	padding-bottom:10px;
+	width:1080px;
+	height:60px;
+	clear:both;
+}
+
+#nav ul li a {
+	display:block;
+	float:left;
+	overflow:hidden;
+	margin-left:0;
+	height:0px;
+	padding-top:60px;
+	background-image:url(../images/all-menu5.jpg);
+}
+/*li.n1 {
+	width:130px;
+}
+li.n2 {
+	width:190px;
+}
+li.n3 {
+	width:235px;
+}
+li.n4 {
+	width:175px;
+}
+li.n5 {
+	width:155px;
+}
+li.n6 {
+	width:195px;
+}
+
+*/.b1 {
+	background-position:0px top;
+	width:122px;
+}
+.b2 {
+	background-position:-122px top;
+	width:200px;
+}
+.b3 {
+	background-position:-322px top;
+	width:262px;
+}
+.b4 {
+	background-position:-584px top;
+	width:167px;
+}
+.b5 {
+	background-position:-751px top;
+	width:114px;
+}
+.b6 {
+	background-position:-864px top;
+	width:215px;
+}
+
+.b1:hover {
+	background-position:0px bottom;
+	width:122px;
+}
+.b2:hover {
+	background-position:-122px bottom;
+	width:200px;
+}
+.b3:hover {
+	background-position:-322px bottom;
+	width:262px;
+}
+.b4:hover {
+	background-position:-584px bottom;
+	width:167px;
+}
+.b5:hover {
+	background-position:-751px bottom;
+	width:114px;
+}
+.b6:hover {
+	background-position:-864px bottom;
+	width:215px;
+}
+
+
+#main2 {
+	margin-top:10px;
+	width:700px;
+	height:auto;
+	float:left;
+	padding:5px;
+}
+
+#attention {
+	height:86px;
+	padding:5px;
+}
+
+.box    {
+    /*box-shadow*/
+    box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+    -webkit-box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+    -moz-box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+	/*kadomaru*/
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+     border-radius: 10px;
+     
+    /*ボックスのデザイン*/
+    padding:0px 5px 10px 5px;
+    border:1px solid #ddd;
+    text-align:center;
+	height:590px;
+	float:clear;
+}
+
+.box1  {
+    /*box-shadow*/
+    box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+    -webkit-box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+    -moz-box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+    /*kadomaru*/ 
+	 -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+      border-radius: 10px;
+
+    /*ボックスのデザイン*/
+    padding:0px 5px 10px 5px;
+    border:1px solid #ddd;
+    text-align:left;
+	height:1080px;
+}
+
+
+td {
+	margin-right:5px;
+}
+
+ul#ban1 {
+	padding-top:5px;
+}
+
+ul#ban1 li {
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+/*マウスホバー時に透過＋アニメーション設定*/
+
+a img {
+	-webkit-transition: 0.3s ease-in-out;
+	   -moz-transition: 0.3s ease-in-out;
+	     -o-transition: 0.3s ease-in-out;
+	        transition: 0.3s ease-in-out;
+}
+a:hover img {
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+}
+
+ul#ban2 {
+	padding-top:5px;
+	clear:both;
+}
+
+ul#ban2 li {
+	float:left;
+    margin-left:5px;
+	margin-right:5px;
+}
+
+#right {
+	margin-top:10px;
+	padding:5px;
+	width:350px;
+	height:auto;
+	float:left;
+}
+#main3 {
+	padding:5px;
+	float:left;
+}
+
+#main4 {
+	width:330px;
+	float:left;
+}
+
+.koushin {
+	    /*box-shadow*/
+    box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+    -webkit-box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+    -moz-box-shadow:0 0 5px #fff, 0 0 5px #ccc, 0 0 1px #aaa;
+    /*kadomaru*/ 
+	 -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+      border-radius: 10px;
+
+    /*ボックスのデザイン*/
+    padding:0px 5px 10px 5px;
+    border:1px solid #ddd;
+    text-align:left;
+	height:380px;
+}
+
+.update {
+	width:auto;
+	height:330px;
+	overflow:scroll;
+	overflow-x:hidden;
+}
+
+.list0 {
+	padding:5px;
+	border-bottom: 1px dotted #bebebe;
+	display: block;
+	width: auto;
+	height: auto;
+}
+
+.date {
+	border-bottom: 4px solid #bebebe;
+	display: block;
+	width: 120px;
+	height: 18px;
+	padding-left: 5px;
+	white-space: nowrap;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+}
+ .date span {
+	font-size: 85%;
+	margin-left: 3px;
+}
+/* --- リスト項目 --- */
+ul.list li {
+padding: 0px 0 5px 15px; /* 項目のパディング（上右下左） */
+background: url(../images/triangle3.gif)  no-repeat 3px 0.3em; /* マーカー画像 */
+line-height: 130%;
+
+}
+ul.list li a {
+text-decoration:none;
+}
+/* --- clearfix --- */
+.clearFix:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+.clearFix {
+min-height: 1px;
+}
+
+footer {
+	clear:both;
+	margin:0 auto;
+	width:1080px;
+	height:400px;
+	background-image:url(../images/footer.jpg);
+	font-family:"ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
+}
+
+footer h3 {
+	font-size:120%;
+	font-weight:700;
+}
+
+.ftr {
+	margin:10px;
+}
+.ftr li {
+	padding-bottom:0.5em;
+}
+.ftr a {
+	text-decoration:none;
+	color:#000;
+}
+.ftr a:hover {
+	text-decoration:underline;
+}
+
+#f1 {
+	float:left;
+	width:300px;
+	height:340px;
+	padding:30px;
+}
+
+#f2 {
+	float:left;
+	width:300px;
+	height:340px;
+	padding:30px;
+}
+
+#f3 {
+	float:left;
+	width:300px;
+	height:340px;
+	padding:30px;
+}
+	

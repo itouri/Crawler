@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.1//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+        <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <link rel="canonical" href="https://twitter.com/shibaurasai">
+    <meta name="twitter-redirect-url" content="twitter://user?screen_name=shibaurasai"/>
+    <meta name="twitter-redirect-srcs" content="{&quot;pwreset-iphone&quot;:true,&quot;android&quot;:true,&quot;email&quot;:true}"/>
+    <link href="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/ic_favicon.png" rel="icon" type="image/png" />
+    <title>芝浦祭実行委員会 (@Shibaurasai)さんはTwitterを利用しています</title>
+      <link href="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/assets/a.css" inline="false" media="screen" rel="stylesheet" type="text/css" />
+    <script src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/javascripts/framebust.js" type="text/javascript"></script>
+    <meta name="google-site-verification" content="V0yIS0Ec_o3Ii9KThrCoMCkwTYMMJ_JYx_RSaGhFYvw" />
+  </head>
+  <body class="images nojs users-page users-show-page">
+    <div id="container">
+      <div id="brand_bar">
+  <table id="top">
+    <tr>
+      <td class="left">
+        <a href="/" class="brandmark">
+              <img alt="Twitter" height="28"  src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/larry_28px.gif">
+
+          
+        </a>
+      </td>
+      <td class="right">
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/brandbar_divider.gif" />
+          <a class="search" href="#search">
+                <img alt="検索" height="28"  src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/search_28px.gif">
+
+            
+          </a>
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/brandbar_divider.gif" />
+          <a class="signin" href="/session/new"><span>ログイン</span></a>
+            <img alt="|" class="divider" height="28" src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/brandbar_divider.gif" /> 
+          <a href="/signup"><span class="signup">登録</span></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+      
+      <div id="main_content">
+        
+      <div class="profile">
+        <table class="profile-details">
+  <tr>
+      <td class="avatar">
+        <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+      </td>
+      <td class="user-info">
+        <div class="fullname">芝浦祭実行委員会
+        </div>
+        <div class="username">
+          <span>@</span>
+          <span class="screen-name">Shibaurasai</span>
+        </div>
+        <div class="location">芝浦工大豊洲キャンパス</div>
+      </td>
+  </tr>
+  <tr>
+    <td class="details" colspan="2">
+      <div class="bio">
+        <div class="dir-ltr" dir="ltr">
+          芝浦祭実行委員会の公式ツイッターです！ ホットな情報を発信していきます！！第42回芝浦祭は10/31～11/2の3日間です！
+        </div>
+      </div>
+      <div class="url">
+        <div class="dir-ltr">
+          <a href="http://t.co/bDXY0ueczP" data-url="shibaurasai.com" class="twitter-timeline-link activeLink dir-ltr tco-link"
+              dir="ltr" rel="nofollow" target="_blank">shibaurasai.com</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+        <table class="profile-stats">
+  <tr>
+    <td class="stat">
+      <div class="statnum">3,064</div>
+      <div class="statlabel">ツイート</div>
+    </td>
+    <td class="stat">
+      <a href="/Shibaurasai/following">
+        <div class="statnum">1,953</div>
+        <div class="statlabel">フォロー</div>
+      </a>
+    </td>
+    <td class="stat stat-last">
+      <a href="/Shibaurasai/followers">
+        <div class="statnum">1,213</div>
+        <div class="statlabel">フォロワー</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+        <div class="profile-actions">
+        <form action="/i/guest/follow/Shibaurasai" method="post">
+            <span class="m2-auth-token">
+    <input name="authenticity_token" type="hidden" value="2e54b9e907cbff3baf63b6a59c65a70e"/>
+  </span>
+          
+          <span class="w-button-common w-button">
+            <input name="commit" type="submit" value="フォロー">
+          </span>
+        </form>
+      <form action="/Shibaurasai/actions" method="get">
+        
+        <span class="w-button-common w-button">
+          <input name="commit" type="submit" value="•••">
+        </span>
+      </form>
+</div>
+
+      </div>
+
+        <div class="w-mediaonebox">
+    <table>
+      <tr>
+        <td style="width: 104px;">
+          <a href="/Shibaurasai/media/grid?idx=0"><img src="https://pbs.twimg.com/media/B1egHh8CAAA7-En.jpg" width="104" height="78"/></a>
+        </td>
+        <td style="width: 104px;">
+          <a href="/Shibaurasai/media/grid?idx=2"><img src="https://pbs.twimg.com/media/B1abr7WCcAI9Nyp.jpg" width="104" height="78"/></a>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <div class="see-more">
+      <a href="/Shibaurasai/media/grid">さらに画像を表示する</a>
+    </div>
+</div>
+
+      <div class="timeline">
+        <table class="titlebar">
+          <tr>
+          <td>ツイート</td>
+          <td class="right fifty">
+                <form action="/Shibaurasai/follow_sms" method="get">
+      
+      <span class="w-button-common w-button-follow-sms-small">
+        <input alt="SMSからフォローする" src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/notifications_default_sm.gif" type="image">
+      </span>
+    </form>
+
+          </td>
+        </table>
+          <table class="tweet  "
+       href="/kanakolovers/status/529093321289789440?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/kanakolovers?p=i">
+      <img alt="ういらぶかなこぉ↑↑" src="https://pbs.twimg.com/profile_images/486337851160670210/rmUkwUll_normal.jpeg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/kanakolovers?p=s">
+    <strong class="fullname">ういらぶかなこぉ↑↑</strong>
+    <span class="username">
+      <span>@</span>kanakolovers
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_529093321289789440" href="/kanakolovers/status/529093321289789440?p=p">11月3日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="529093321289789440">
+      <div class="dir-ltr" dir="ltr">芝浦祭片付け日！片付けひと段落しホントのホントの終わりです！！ <a href="http://t.co/My0aYpbmE0"data-pre-embedded="true"rel="nofollow"data-entity-id="529093320312500224"dir="ltr"data-url="http://twitter.com/kanakolovers/status/529093321289789440/photo/1"data-tco-id="My0aYpbmE0"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/kanakolovers/status/529093321289789440/photo/1">pic.twitter.com/My0aYpbmE0</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/kanakolovers/status/529093321289789440?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/kanakolovers/reply/529093321289789440?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/529093321289789440/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/529093321289789440/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/kanakolovers/status/529093321289789440/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/529067536122261504?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_529067536122261504" href="/Shibaurasai/status/529067536122261504?p=p">11月3日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="529067536122261504">
+      <div class="dir-ltr" dir="ltr">おはようございます！芝浦祭が終了して1日目の朝です。バスケットコートで行われていたモザイクアートは無事に完成いたしました！！たくさんの方々のご協力、どうもありがとうございました！！！ <a href="http://t.co/BKc8800IZW"data-pre-embedded="true"rel="nofollow"data-entity-id="529067532469010432"dir="ltr"data-url="http://twitter.com/Shibaurasai/status/529067536122261504/photo/1"data-tco-id="BKc8800IZW"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/Shibaurasai/status/529067536122261504/photo/1">pic.twitter.com/BKc8800IZW</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/529067536122261504?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/529067536122261504" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/529067536122261504/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/529067536122261504/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/529067536122261504/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/shibauraniken/status/529043205459673089?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/shibauraniken?p=i">
+      <img alt="芝浦工業大学アニメーション研究会" src="https://pbs.twimg.com/profile_images/2359339649/uoz1ff6c44dfvygiddzm_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/shibauraniken?p=s">
+    <strong class="fullname">芝浦工業大学アニメーション研究会</strong>
+    <span class="username">
+      <span>@</span>shibauraniken
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_529043205459673089" href="/shibauraniken/status/529043205459673089?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="529043205459673089">
+      <div class="dir-ltr" dir="ltr">昨日までの芝浦祭にご来場頂いた皆様、大変ありがとうございました。&#10;２日目トークショーゲストの巽悠衣子さんからブログでご感想を頂きました。もう一人のゲスト山本希望さんと楽しい時間を共有できたことに感謝します。&#10;&#10;『がくえんさい。』&#10;⇒ <a href="http://t.co/YxxZsvkEDg"rel="nofollow"dir="ltr"data-expanded-url="http://amba.to/1wRJjJg"data-url="http://amba.to/1wRJjJg"class="twitter_external_link dir-ltr tco-link"target="_blank"title="http://amba.to/1wRJjJg">amba.to/1wRJjJg</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/shibauraniken/status/529043205459673089?p=v">詳細を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/shibauraniken/reply/529043205459673089?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/529043205459673089/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/529043205459673089/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/shibauraniken/status/529043205459673089/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/529060171578765312?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_529060171578765312" href="/Shibaurasai/status/529060171578765312?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="529060171578765312">
+      <div class="dir-ltr" dir="ltr"><a href="/ma_tun_ma"class="twitter-atreply dir-ltr"dir="ltr"data-screenname="ma_tun_ma">@ma_tun_ma</a> 大変失礼しました。</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/529060171578765312?p=v">会話を見る</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/529060171578765312" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/529060171578765312/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/529060171578765312/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/529060171578765312/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/fm_shibaya/status/528928746271539200?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/fm_shibaya?p=i">
+      <img alt="FM芝屋" src="https://pbs.twimg.com/profile_images/2710930100/0d7f4438cd3525f3f00c89988d36576d_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/fm_shibaya?p=s">
+    <strong class="fullname">FM芝屋</strong>
+    <span class="username">
+      <span>@</span>fm_shibaya
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528928746271539200" href="/fm_shibaya/status/528928746271539200?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528928746271539200">
+      <div class="dir-ltr" dir="ltr">FM芝屋に於ける芝浦祭はもう終わり？&#10;&#10;いいえ、まだ終わっていません。&#10;今日の撤収作業、そして後の機材やケーブルの整理等を済ませて、やっと終わる事が出来るのです。&#10;&#10;…って、先輩が言ってました。&#10;&#10;(MC.Pride)</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/fm_shibaya/status/528928746271539200?p=v">詳細を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/fm_shibaya/reply/528928746271539200?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528928746271539200/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528928746271539200/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/fm_shibaya/status/528928746271539200/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/529058368543916032?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_529058368543916032" href="/Shibaurasai/status/529058368543916032?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="529058368543916032">
+      <div class="dir-ltr" dir="ltr">祭子「今日は芝浦祭片付け日です！今日も一日がんばるぞい！」&#10;<a href="/hashtag/%E8%8A%9D%E6%B5%A6%E7%A5%AD?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#芝浦祭</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/529058368543916032?p=v">詳細を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/529058368543916032" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/529058368543916032/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/529058368543916032/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/529058368543916032/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/shibaurashangri/status/527818577370300416?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/shibaurashangri?p=i">
+      <img alt="芝浦工業大学 シャングリラ" src="https://pbs.twimg.com/profile_images/537432809967587328/lKbhSXcz_normal.jpeg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/shibaurashangri?p=s">
+    <strong class="fullname">芝浦工業大学 シャングリラ</strong>
+    <span class="username">
+      <span>@</span>shibaurashangri
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_527818577370300416" href="/shibaurashangri/status/527818577370300416?p=p">10月30日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="527818577370300416">
+      <div class="dir-ltr" dir="ltr">芝浦祭、いよいよ明日からです！&#10;ブースではアナと雪の女王をイメージしたフォトスポットも用意していますので、ぜひお越しください！&#10;ブースは教室棟をエスカレーターで3階まであがって振り返ったらすぐに見えます！ <a href="http://t.co/KUNiLWME8q"data-pre-embedded="true"rel="nofollow"data-entity-id="527818533283958784"dir="ltr"data-url="http://twitter.com/shibaurashangri/status/527818577370300416/photo/1"data-tco-id="KUNiLWME8q"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/shibaurashangri/status/527818577370300416/photo/1">pic.twitter.com/KUNiLWME8q</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/shibaurashangri/status/527818577370300416?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/shibaurashangri/reply/527818577370300416?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/527818577370300416/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/527818577370300416/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/shibaurashangri/status/527818577370300416/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/SIT_Astronomy/status/528810883586093056?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/SIT_Astronomy?p=i">
+      <img alt="芝浦工大 天文同好会" src="https://pbs.twimg.com/profile_images/412567557418135554/m0RwF4wf_normal.jpeg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/SIT_Astronomy?p=s">
+    <strong class="fullname">芝浦工大 天文同好会</strong>
+    <span class="username">
+      <span>@</span>SIT_Astronomy
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528810883586093056" href="/SIT_Astronomy/status/528810883586093056?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528810883586093056">
+      <div class="dir-ltr" dir="ltr">芝浦祭三日間でホットク460食完売いたしました(*ﾟ▽ﾟ*)</div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/SIT_Astronomy/status/528810883586093056?p=v">詳細を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/SIT_Astronomy/reply/528810883586093056?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528810883586093056/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528810883586093056/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/SIT_Astronomy/status/528810883586093056/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/528836655373758465?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528836655373758465" href="/Shibaurasai/status/528836655373758465?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528836655373758465">
+      <div class="dir-ltr" dir="ltr">18時をもって第42回芝浦祭は終了しました。&#10;たくさんの方にご来場いただき、ありがとうございました!! <a href="http://t.co/OgktFyt2NI"data-pre-embedded="true"rel="nofollow"data-entity-id="528836654098694145"dir="ltr"data-url="http://twitter.com/Shibaurasai/status/528836655373758465/photo/1"data-tco-id="OgktFyt2NI"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/Shibaurasai/status/528836655373758465/photo/1">pic.twitter.com/OgktFyt2NI</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/528836655373758465?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/528836655373758465" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528836655373758465/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528836655373758465/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/528836655373758465/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/tot_ch_sit/status/528781746033004545?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/tot_ch_sit?p=i">
+      <img alt="芝浦工業大学tot編集部" src="https://pbs.twimg.com/profile_images/2700829596/d307ccea30563ec0feadc2aeece5996e_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/tot_ch_sit?p=s">
+    <strong class="fullname">芝浦工業大学tot編集部</strong>
+    <span class="username">
+      <span>@</span>tot_ch_sit
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528781746033004545" href="/tot_ch_sit/status/528781746033004545?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528781746033004545">
+      <div class="dir-ltr" dir="ltr">みなさんはもうお目にかかりましたかー(^^)？ <a href="http://t.co/7VMq85aYwK"data-pre-embedded="true"rel="nofollow"data-entity-id="528781733135515648"dir="ltr"data-url="http://twitter.com/tot_ch_sit/status/528781746033004545/photo/1"data-tco-id="7VMq85aYwK"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/tot_ch_sit/status/528781746033004545/photo/1">pic.twitter.com/7VMq85aYwK</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/tot_ch_sit/status/528781746033004545?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/tot_ch_sit/reply/528781746033004545?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528781746033004545/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528781746033004545/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/tot_ch_sit/status/528781746033004545/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/tot_ch_sit/status/528782628283887617?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/tot_ch_sit?p=i">
+      <img alt="芝浦工業大学tot編集部" src="https://pbs.twimg.com/profile_images/2700829596/d307ccea30563ec0feadc2aeece5996e_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/tot_ch_sit?p=s">
+    <strong class="fullname">芝浦工業大学tot編集部</strong>
+    <span class="username">
+      <span>@</span>tot_ch_sit
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528782628283887617" href="/tot_ch_sit/status/528782628283887617?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528782628283887617">
+      <div class="dir-ltr" dir="ltr"><a href="http://t.co/VCLELX6GKa"data-pre-embedded="true"rel="nofollow"data-entity-id="528782589310406656"dir="ltr"data-url="http://twitter.com/tot_ch_sit/status/528782628283887617/photo/1"data-tco-id="VCLELX6GKa"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/tot_ch_sit/status/528782628283887617/photo/1">pic.twitter.com/VCLELX6GKa</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/tot_ch_sit/status/528782628283887617?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/tot_ch_sit/reply/528782628283887617?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528782628283887617/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528782628283887617/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/tot_ch_sit/status/528782628283887617/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/SIT_Astronomy/status/528781550247088128?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/SIT_Astronomy?p=i">
+      <img alt="芝浦工大 天文同好会" src="https://pbs.twimg.com/profile_images/412567557418135554/m0RwF4wf_normal.jpeg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/SIT_Astronomy?p=s">
+    <strong class="fullname">芝浦工大 天文同好会</strong>
+    <span class="username">
+      <span>@</span>SIT_Astronomy
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528781550247088128" href="/SIT_Astronomy/status/528781550247088128?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528781550247088128">
+      <div class="dir-ltr" dir="ltr">あの映画泥棒も絶賛！ <a href="http://t.co/WZ96ESdCq2"data-pre-embedded="true"rel="nofollow"data-entity-id="528781524020101121"dir="ltr"data-url="http://twitter.com/SIT_Astronomy/status/528781550247088128/photo/1"data-tco-id="WZ96ESdCq2"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/SIT_Astronomy/status/528781550247088128/photo/1">pic.twitter.com/WZ96ESdCq2</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/SIT_Astronomy/status/528781550247088128?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/SIT_Astronomy/reply/528781550247088128?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528781550247088128/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528781550247088128/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/SIT_Astronomy/status/528781550247088128/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/528781186735149057?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528781186735149057" href="/Shibaurasai/status/528781186735149057?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528781186735149057">
+      <div class="dir-ltr" dir="ltr">バスケットコートでは引き続きモザイクアートを行なっております！写真は2日目の様子です。ぜひぜひご参加ください！ <a href="http://t.co/EavSoxNcq2"data-pre-embedded="true"rel="nofollow"data-entity-id="528781185229418498"dir="ltr"data-url="http://twitter.com/Shibaurasai/status/528781186735149057/photo/1"data-tco-id="EavSoxNcq2"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/Shibaurasai/status/528781186735149057/photo/1">pic.twitter.com/EavSoxNcq2</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/528781186735149057?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/528781186735149057" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528781186735149057/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528781186735149057/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/528781186735149057/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/tot_ch_sit/status/528779433977450496?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/tot_ch_sit?p=i">
+      <img alt="芝浦工業大学tot編集部" src="https://pbs.twimg.com/profile_images/2700829596/d307ccea30563ec0feadc2aeece5996e_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/tot_ch_sit?p=s">
+    <strong class="fullname">芝浦工業大学tot編集部</strong>
+    <span class="username">
+      <span>@</span>tot_ch_sit
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528779433977450496" href="/tot_ch_sit/status/528779433977450496?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528779433977450496">
+      <div class="dir-ltr" dir="ltr">教室棟1階テクノプラザでは、マイクロマウス大会が行われています <a href="http://t.co/h0b2QF6Xti"data-pre-embedded="true"rel="nofollow"data-entity-id="528779420224352256"dir="ltr"data-url="http://twitter.com/tot_ch_sit/status/528779433977450496/photo/1"data-tco-id="h0b2QF6Xti"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/tot_ch_sit/status/528779433977450496/photo/1">pic.twitter.com/h0b2QF6Xti</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/tot_ch_sit/status/528779433977450496?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/tot_ch_sit/reply/528779433977450496?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528779433977450496/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528779433977450496/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/tot_ch_sit/status/528779433977450496/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/sit_acappella/status/528779072755609600?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/sit_acappella?p=i">
+      <img alt="芝浦アカペラサークル「NewTone」" src="https://pbs.twimg.com/profile_images/469702231625703424/Hwf9eDMl_normal.jpeg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/sit_acappella?p=s">
+    <strong class="fullname">芝浦アカペラサークル「NewTone」</strong>
+    <span class="username">
+      <span>@</span>sit_acappella
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528779072755609600" href="/sit_acappella/status/528779072755609600?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528779072755609600">
+      <div class="dir-ltr" dir="ltr">アカペラカフェやってます！305教室ですよ〜、休憩がてらおいしい珈琲もいかがでしょうか(*´ー｀) <a href="http://t.co/OZocczPWMs"data-pre-embedded="true"rel="nofollow"data-entity-id="528779070595547138"dir="ltr"data-url="http://twitter.com/sit_acappella/status/528779072755609600/photo/1"data-tco-id="OZocczPWMs"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/sit_acappella/status/528779072755609600/photo/1">pic.twitter.com/OZocczPWMs</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/sit_acappella/status/528779072755609600?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/sit_acappella/reply/528779072755609600?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528779072755609600/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528779072755609600/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/sit_acappella/status/528779072755609600/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/528764751921156097?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528764751921156097" href="/Shibaurasai/status/528764751921156097?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528764751921156097">
+      <div class="dir-ltr" dir="ltr">南会津たのせ物産展&#10;会津のうるち米を使った、ばんでい餅となめこ汁を販売しています！お餅はじゅうねんみそあじと、甘味噌味の2種類*\(^o^)/*食べ応えがありますo(｀ω´ )oおいしい野菜も販売していますよ！！ <a href="http://t.co/n0pdNo82QX"data-pre-embedded="true"rel="nofollow"data-entity-id="528764728634404865"dir="ltr"data-url="http://twitter.com/Shibaurasai/status/528764751921156097/photo/1"data-tco-id="n0pdNo82QX"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/Shibaurasai/status/528764751921156097/photo/1">pic.twitter.com/n0pdNo82QX</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/528764751921156097?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/528764751921156097" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528764751921156097/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528764751921156097/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/528764751921156097/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/sitgd/status/528758206219055105?p=v">
+  <tr class="tweet-content ">
+    <td class="avatar-spacer"></td>
+    <td class="tweet-social-context">
+      <span class="context">芝浦祭実行委員会さんがリツイート</span>
+    </td>
+    <td class="timestamp-spacer"></td>
+</tr>
+
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/sitgd?p=i">
+      <img alt="芝浦工業大学 国際学生寮" src="https://pbs.twimg.com/profile_images/492819725362003968/w-bLxCJT_normal.jpeg" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/sitgd?p=s">
+    <strong class="fullname">芝浦工業大学 国際学生寮</strong>
+    <span class="username">
+      <span>@</span>sitgd
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528758206219055105" href="/sitgd/status/528758206219055105?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528758206219055105">
+      <div class="dir-ltr" dir="ltr">美味いです。ミーゴレン、東南アジアな焼きそば、100円です。  <a href="/hashtag/%E8%8A%9D%E6%B5%A6%E7%A5%AD?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#芝浦祭</a>  <a href="/hashtag/%E8%8A%9D%E6%B5%A6%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#芝浦工業大学</a> <a href="/hashtag/%E3%81%94%E3%81%A1%E3%81%9D%E3%81%86%E3%83%95%E3%82%A9%E3%83%88?src=hash"data-query-source="hashtag_click"class="twitter-hashtag dir-ltr"dir="ltr">#ごちそうフォト</a> <a href="http://t.co/bssk6zqMs3"data-pre-embedded="true"rel="nofollow"data-entity-id="528758070013198336"dir="ltr"data-url="http://twitter.com/sitgd/status/528758206219055105/photo/1"data-tco-id="bssk6zqMs3"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/sitgd/status/528758206219055105/photo/1">pic.twitter.com/bssk6zqMs3</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/sitgd/status/528758206219055105?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/sitgd/reply/528758206219055105?rt_by=Shibaurasai" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528758206219055105/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528758206219055105/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/sitgd/status/528758206219055105/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/528764483255025664?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528764483255025664" href="/Shibaurasai/status/528764483255025664?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528764483255025664">
+      <div class="dir-ltr" dir="ltr">工学部学生会OB&#10;もちもちしてて香ばしい。あまじょっぱい醤油味のあげもちを販売しています！ぜひご堪能あれ(((o(*ﾟ▽ﾟ*)o))) <a href="http://t.co/PvMMJYY4TB"data-pre-embedded="true"rel="nofollow"data-entity-id="528764466737852416"dir="ltr"data-url="http://twitter.com/Shibaurasai/status/528764483255025664/photo/1"data-tco-id="PvMMJYY4TB"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/Shibaurasai/status/528764483255025664/photo/1">pic.twitter.com/PvMMJYY4TB</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/528764483255025664?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/528764483255025664" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528764483255025664/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528764483255025664/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/528764483255025664/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/528764343429509120?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528764343429509120" href="/Shibaurasai/status/528764343429509120?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528764343429509120">
+      <div class="dir-ltr" dir="ltr">工学部学生会&#10;モチモチ食感で大人気！タピオカジュースを販売しています*\(^o^)/*15時前には売り切れてしまうかも？ぜひお越しください(((o(*ﾟ▽ﾟ*)o))) <a href="http://t.co/MwxtS5rWI0"data-pre-embedded="true"rel="nofollow"data-entity-id="528764327394676736"dir="ltr"data-url="http://twitter.com/Shibaurasai/status/528764343429509120/photo/1"data-tco-id="MwxtS5rWI0"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/Shibaurasai/status/528764343429509120/photo/1">pic.twitter.com/MwxtS5rWI0</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/528764343429509120?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/528764343429509120" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528764343429509120/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528764343429509120/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/528764343429509120/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <table class="tweet  "
+       href="/Shibaurasai/status/528764126693048321?p=v">
+  
+<tr class="tweet-header ">
+        <td class="avatar" rowspan="3">
+    <a href="/Shibaurasai?p=i">
+      <img alt="芝浦祭実行委員会" src="https://pbs.twimg.com/profile_images/459213068359053313/E0vDZyRB_normal.png" />
+    </a>
+  </td>
+
+      <td class="user-info">
+  <a href="/Shibaurasai?p=s">
+    <strong class="fullname">芝浦祭実行委員会</strong>
+    <span class="username">
+      <span>@</span>Shibaurasai
+    </span>
+    
+  </a>
+</td>
+
+
+  <td class="timestamp">
+    <a name="tweet_528764126693048321" href="/Shibaurasai/status/528764126693048321?p=p">11月2日</a>
+  </td>
+
+</tr>
+<tr class="tweet-container">
+  <td colspan="2" class="tweet-content">
+    <div class="tweet-text" data-id="528764126693048321">
+      <div class="dir-ltr" dir="ltr">第４２回芝浦祭ミスターコンテスト終了しました！みなさんとてもかっこよくて、祭子大興奮でした！来年もお楽しみに！ <a href="http://t.co/XaGSdUBK01"data-pre-embedded="true"rel="nofollow"data-entity-id="528764125703200768"dir="ltr"data-url="http://twitter.com/Shibaurasai/status/528764126693048321/photo/1"data-tco-id="XaGSdUBK01"class="twitter_external_link dir-ltr tco-link has-expanded-path"target="_top"data-expanded-path="/Shibaurasai/status/528764126693048321/photo/1">pic.twitter.com/XaGSdUBK01</a></div>
+    </div>
+
+
+  </td>
+</tr>
+
+  <tr>
+    <td colspan="2" class="meta-and-actions">
+      <span class="metadata">
+        <a href="/Shibaurasai/status/528764126693048321?p=v">画像を表示</a>
+        <span class="middot">&middot;</span>
+      </span>
+      <span class="tweet-actions">
+        <a href="/Shibaurasai/reply/528764126693048321" class="first">
+            <img alt="返信"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_reply.gif">
+
+        </a>
+          <a href="/statuses/528764126693048321/retweet">
+                <img alt="リツイート"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_rt.gif">
+
+          </a>
+        <a href="/statuses/528764126693048321/favorite?authenticity_token=2e54b9e907cbff3baf63b6a59c65a70e&amp;wfa=1" class="favorite">
+              <img alt="お気に入り"   src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/tweet_fav.gif">
+
+        </a>
+        <a href="/Shibaurasai/status/528764126693048321/actions" class="last"></a>
+      </span>
+
+
+    </td>
+  </tr>
+
+</table>
+
+          <div class="w-button-more">
+            <a href="/Shibaurasai?max_id=528763944001748992">さらにツイートを読み込む</a>
+          </div>
+      </div>
+
+
+      </div>
+      <div id="footer">
+    <div class="search-fields">
+    <div class="title">
+      トピック、@ユーザー名または名前を入力してください
+    </div>
+    <form action="/search" class="search-input" method="get">
+    <table>
+      <tr>
+        <td class="value" id="search"><div><input id="q" name="q" type="text" value=""/></div></td>
+        <td class="button">
+          <input type="hidden" name="s" value="typd" />
+          <input type="image" src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/images/sprites/magnifying_glass.gif" alt="検索"/>
+        </td>
+      </tr>
+    </table>
+    </form>
+</div>
+
+    <form action="/session/destroy" method="post" class="logout-form">
+      <span class="m2-auth-token">
+        <input name="authenticity_token" type="hidden" value="2e54b9e907cbff3baf63b6a59c65a70e">
+      </span>
+      <table class="global-actions">
+        <tr>
+          <td><a href="/settings">設定</a></td>
+          <td><a href="https://support.twitter.com/"> ヘルプ</a></td>
+        </tr>
+      </table>
+    </form>
+    <div class="view-actions"><a href="#top">トップに戻る</a> &middot; <a href="/settings/profile_images?return_to=%2Fshibaurasai">画像を非表示</a></div>
+</div>
+
+    </div>
+      <script id="scribe-configuration" type="application/json">{"page":"profile"}</script>
+      <script src="https://ma.twimg.com/twitter-mobile/07d3fce8a457eb2a946c10c63d18b249a96b610c/assets/m2_tweets.js" type="text/javascript"></script>
+      <img src="https://mobile.twitter.com/i/anonymize?data=%5B%7B%22integration%22%3A%22ga%22%2C%22ref%22%3A%22%22%7D%5D" height="0" width="0">
+
+  </body>
+</html>
